@@ -36,7 +36,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate_path: podcast/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: opelexnet # jekyll-seo-tag > Owners twitter username
@@ -61,11 +61,11 @@ timezone: Asia/Kolkata # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Podcast Episodes # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: " " # The post list page content
     feature_text: |
-      Welcome to the blog
+
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -123,8 +123,6 @@ navigation_header:
   url: /about/
 - title: Podcast
   url: /podcast/
-- title: Blog
-  url: /blog/
 - title: Categories
   url: /categories/
 - title: Search
