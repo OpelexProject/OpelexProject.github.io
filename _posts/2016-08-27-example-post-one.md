@@ -1,7 +1,7 @@
 ---
 title: The Pilot
 categories:
-- General
+- Podcast
 ---
 
 Lalit and Abhijit catch up for a trans-continental chat, recalling life as graduate students in the M. Tech and PhD program at CEDT/DESE IISc Bangalore, postdoc life, and beyond.
