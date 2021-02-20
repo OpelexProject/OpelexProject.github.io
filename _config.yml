@@ -133,10 +133,10 @@ navigation_footer:
   url: https://kabhijit.net
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/opelex.net
+  Twitter: https://twitter.com/opelexnet
   LinkedIn: https://www.linkedin.com/company/73415458/
-  GitHub: https://github.com/OpelexProject
-  link: https://opelex.net
+# link: https://opelex.net
+  Gitlab: https://gitlab.com/opelexnet
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
