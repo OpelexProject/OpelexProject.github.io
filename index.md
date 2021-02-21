@@ -15,6 +15,6 @@ Currently Wiki editing is limited to the core team only. The opelex podcast, rel
 
 #### Contributing
 Interested in contributing? Great!
-Please contact us via [twitter](https://twitter.com/opelexnet "@opelexnet").
+Please contact us via [twitter](https://twitter.com/opelexnet "@opelexnet") or leave comments queries / suggestions using [this form](https://forms.gle/CywbzqcqRBp46xFn9).
 
 <small>AK</small>
