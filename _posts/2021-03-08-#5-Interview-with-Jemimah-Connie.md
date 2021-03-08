@@ -14,7 +14,7 @@ She shares her diverse experiences in Uganda and Canada, from increasing generat
 
 Dr Jemimah Connie Akiror [(LinkedIn)](https://www.linkedin.com/in/jemimahconnie/)
 
-<img src="/assets/postimg/jca.jpg" width="50%" />
+<img src="/assets/jca.jpg" width="50%" />
 
 -   Uganda Electricity Generation Company Limited (UEGCL), Kampala:
     [*https://uegcl.com/*](https://uegcl.com/)
