@@ -5,9 +5,12 @@ categories:
 podcastId: 18232568
 ---
 
-In this International Women's Day special episode, we interview Dr. Jemimah Connie Akiror, an electrical engineer working at the Uganda Electricity Generation Company, Kampala. She shares her diverse experiences in Uganda and Canada, from increasing generation capacity of hydro-generators to managing a broad range of electricity generation assets.
-
 {% include podcast.html id=page.podcastId %}
+
+In this International Women's Day special episode, we interview Dr. Jemimah Connie Akiror, an electrical engineer working at the Uganda Electricity Generation Company, Kampala. 
+<!-- more -->
+She shares her diverse experiences in Uganda and Canada, from increasing generation capacity of hydro-generators to managing a broad range of electricity generation assets.
+
 
 Dr Jemimah Connie Akiror
 
