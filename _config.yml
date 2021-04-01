@@ -94,10 +94,10 @@ lang: en-GB # Set the site language
 title: "Opelex Project" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "The home of all things open-source for power electronics - hardware, software, tutorials and more" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
+url: "http://opelex.net" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/OpelexProject/OpelexProject.github.io"
-email: "me@example.com"
+email: "opelexpodcast@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
