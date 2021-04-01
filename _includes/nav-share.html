@@ -21,4 +21,14 @@
       {% include button.html text=name icon=id link=share_link color=color %}
     {% endif %}
   {% endfor %}
+  <br>
+ {% if page.previous.url %}
+  	<!-- <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> -->
+ 	{% include button.html text="Previous Episode" icon="previous-episode" link=page.previous.url color=color %}
+ {% endif %}
+ {% if page.next.url %}
+  	<!-- <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> -->
+ 	{% include button.html text="Next Episode" icon="next-episode" link=page.next.url color=color %}
+ {% endif %}
+
 </div>
