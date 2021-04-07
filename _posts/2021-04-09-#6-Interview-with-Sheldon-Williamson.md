@@ -10,18 +10,16 @@ podcastId: 18606857
 An interview with Prof. Sheldon Williamson of the Ontario Tech University, Canata. 
 <!-- more -->
 ### Show Notes
-<!-- <img src="/assets/jca.jpg" width="50%" /> -->
 
 ###### Prof. Sheldon Williamson
 
+<img src="/assets/sw.jpg" /> 
+
 [Department of Electrical, Computer and Software Engineering](https://engineering.ontariotechu.ca/departments/ecse/index.php), Ontario
-Tech University, Oshawa, Canada
-
-[Research group webpage](https://engineering.ontariotechu.ca/steer/index.php)\
-
-Twitter handles: [*@OT\_STEER*](https://twitter.com/OT_STEER), [*@electrifiedshel*](https://www.twitter.com/electrifiedshel)
-
-[*Google Scholar Profile*](https://scholar.google.com/citations?user=I9aBAuQAAAAJ&hl=en&oi=ao)\
+Tech University, Oshawa, Canada <br>
+[Research group webpage](https://engineering.ontariotechu.ca/steer/index.php)<br>
+Twitter handles: [*@OT\_STEER*](https://twitter.com/OT_STEER), [*@electrifiedshel*](https://www.twitter.com/electrifiedshel)<br>
+[*Google Scholar Profile*](https://scholar.google.com/citations?user=I9aBAuQAAAAJ&hl=en&oi=ao)
 
 **Education:**
 
