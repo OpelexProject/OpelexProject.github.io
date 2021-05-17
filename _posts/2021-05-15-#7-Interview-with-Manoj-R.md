@@ -38,9 +38,6 @@ An interview with Manoj R of the Indian Space Research Organisation (ISRO).
     renewable-only energy systems, DC-only systems, space crafts and EVs
     are both essentially battery-based systems with minimum SWAP
     requirements
--   New space vs traditional space: Reusable rockets, many
-    short-mission-life satellites, commercial space flight, custom
-    solutions vs generic designs
 -   "If you look at power, you start imagining the origin of things:
     How does something really start up? Where is its source of power?
     Where and how does the power flow? Who needs it? How much is needed?
