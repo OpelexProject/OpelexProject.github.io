@@ -26,8 +26,8 @@ An interview with Manoj R of the Indian Space Research Organisation (ISRO).
     -   Exposure to thermal cycling
     -   Stringent EMI/EMC requirements because of other critical systems connected to the same DC bus
     -   Space radiation (ionizing)
-    -   Launch vehicles are exposed to this for a short duration
-    -   Geosynchronous space crafts work for >15 years without servicing
+	    -   Launch vehicles are exposed to this for a short duration
+	    -   Geosynchronous space crafts work for >15 years without servicing
     -   Operation in vacuum: Need tight control over materials used
     -   Reliability
     -   Thermal management of power devices: Even 4W of power dissipation in a single device is challenging, conduction is  the only mode of taking out heat from the device (no convection in absence of air, not much thermal radiation at lower temperatures owing to Stefan's law)
@@ -61,4 +61,5 @@ An interview with Manoj R of the Indian Space Research Organisation (ISRO).
     -   Bottom-up approach: ideas coming from the grassroot level are  put into a common pool and reviewed so that the best ones come  up and they get funded.
     -   Problem solving by divide-and-rule: break up a problem into smaller problems and distribute to the people by skillset. 
     -   Special focus on defining interfaces clearly.
--   ISRO launches university satellites too, accepts students for project work.
+-   ISRO 
+hes university satellites too, accepts students for project work.
