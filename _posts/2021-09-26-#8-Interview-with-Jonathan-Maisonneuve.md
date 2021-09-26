@@ -12,5 +12,7 @@ An interview with Prof. Jonathan Maisonneuve of Oakland University, who works on
 <!-- more -->
 
 ### Show Notes
-###### Jonathan Maisonneuve
+Prof. Jonathan Maisonneuve [(Homepage)](https://sites.google.com/a/oakland.edu/maisonneuve/people)
+<img src="/assets/jm.jpg" width="50%" />
+
 Coming soon
