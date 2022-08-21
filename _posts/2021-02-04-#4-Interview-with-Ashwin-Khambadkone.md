@@ -1,5 +1,5 @@
 ---
-title: #3 Interview with Prof. Ashwin Khambadkone
+title: #3 Interview with Ashwin Khambadkone
 categories:
 - Podcast
 podcastId: 17816093
