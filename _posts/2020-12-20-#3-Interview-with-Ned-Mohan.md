@@ -11,4 +11,6 @@ Lalit and Abhijit chat with Prof. Ned Mohan of the University of Minnesota, Twin
 
 <!-- more -->
 
+<img src="/assets/nm.jpg" width="50%" />
+
 <small> Show notes coming Soon </small>
