@@ -5,9 +5,11 @@ categories:
 podcastId: 19114604
 ---
 
+Discussions on Power Electronics (and systems design) for space and aeronautical applications 
+with Manoj R of the Indian Space Research Organisation (ISRO).
+
 {% include podcast.html id=page.podcastId %}
 
-An interview with Manoj R of the Indian Space Research Organisation (ISRO).
 
 <!-- more -->
 ### Show Notes

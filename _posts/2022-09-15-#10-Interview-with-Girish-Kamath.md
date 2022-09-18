@@ -5,9 +5,10 @@ categories:
 podcastId: 24372342
 ---
 
+An interview with Dr. Girish Kamath.
+
 {% include podcast.html id=page.podcastId %}
 
-An interview with Dr. Girish Kamath.
 <!-- more -->
 
 ### Show Notes

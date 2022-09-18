@@ -4,12 +4,11 @@ categories:
 - Podcast
 podcastId: 16492601
 ---
+In this podcast, we will talk to a number of guests about the exciting world of power electronics, renewable energy and electric energy: latest news, cutting edge research, career options and education pathways, open source projects and much more!
 
 {% include podcast.html id=page.podcastId %}
 
-Introducing the Opelex Podcast!
-
-In the next episodes, we will talk to a number of guests about the exciting world of power electronics, renewable energy and electric energy: latest news, cutting edge research, career options and education pathways, open source projects and much more!
+<!-- more -->
 
 This podcast is available everywhere that podcasts are found. You can listen to each episode on:
 - the web via the [Opelex Webpage](http://opelex.net/podcast),

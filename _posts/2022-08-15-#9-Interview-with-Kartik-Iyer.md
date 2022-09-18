@@ -5,9 +5,10 @@ categories:
 podcastId: 24059196
 ---
 
+An interview with Dr. Kartik Iyer, Staff Electronic Design Engineer, Power Electronics at Tesla.
+
 {% include podcast.html id=page.podcastId %}
 
-An interview with Dr. Kartik Iyer, Staff Electronic Design Engineer, Power Electronics at Tesla.
 <!-- more -->
 
 ### Show Notes

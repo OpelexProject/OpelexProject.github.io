@@ -9,6 +9,10 @@ Lalit and Abhijit talk to Prof. Ashwin Khambadkone who is currently a Professor 
 
 {% include podcast.html id=page.podcastId %}
 
+<!-- more -->
+
+<img src="/assets/amk.jpg" width="50%" />
+
 1. Guest Profile: Prof. Ashwin Khambadkone:
     * [*NUS Homepage*](http://www.nus.edu.sg/teachingacademy/people/ashwin-m-khambadkone/)
     * [*Experimental Power Grid Center*](https://erian.ntu.edu.sg/epgc/Pages/index.aspx)

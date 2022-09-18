@@ -5,7 +5,7 @@ categories:
 podcastId: 16898405
 ---
 
-Lalit and Abhijit interview their PhD advisor and mentor Prof. L. Umanand.
+Lalit and Abhijit interview their PhD advisor and mentor Prof. L. Umanand of the Department of Electronic Systems Engineering at the Indian Institute of Science Bangalore (DESE, IISc).
 
 {% include podcast.html id=page.podcastId %}
 

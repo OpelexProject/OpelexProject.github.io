@@ -5,9 +5,10 @@ categories:
 podcastId: 18606857
 ---
 
+An interview with Prof. Sheldon Williamson of the Ontario Tech University, Canada. 
+
 {% include podcast.html id=page.podcastId %}
 
-An interview with Prof. Sheldon Williamson of the Ontario Tech University, Canada. 
 <!-- more -->
 ### Show Notes
 
