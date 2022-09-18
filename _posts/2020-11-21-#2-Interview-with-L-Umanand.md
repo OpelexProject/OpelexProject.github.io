@@ -15,28 +15,26 @@ Lalit and Abhijit interview their PhD advisor and mentor, Prof. L. Umanand of th
 
 
 
-#### Guest Profile:
-
-- Prof L Umanand, [*Department of Electronic Systems Engineering*](http://dese.iisc.ac.in/) (DESE)
-Indian Institute of Science (IISc), Bangalore, India
+- **Guest Profile**:
+	- Prof L Umanand, [*Department of Electronic Systems Engineering*](http://dese.iisc.ac.in/) (DESE), Indian Institute of Science (IISc), Bangalore, India
     
     <img src="/assets/lu.jpg" width="50%" />
     
-- [*Personal webpage*](http://surya.dese.iisc.ac.in/lu/index.php/)
-- [*Google Scholar Profile*](https://scholar.google.com/citations?user=KuDDmiQAAAAJ&hl=en)
+	- [*Personal webpage*](http://surya.dese.iisc.ac.in/lu/index.php/)
+	- [*Google Scholar Profile*](https://scholar.google.com/citations?user=KuDDmiQAAAAJ&hl=en)
 
-- Undergraduate education: B.E. (Bachelor of Engineering)
-    - Electronics and communication engineering
-    - Using discrete, and then integrated devices, to build transmitters and receivers (ham radio)
-    - Fear of power electronics: SCR (Silicon Controlled Rectifier) waveforms
+	- Undergraduate education: B.E. (Bachelor of Engineering)
+	    - Electronics and communication engineering
+	    - Using discrete, and then integrated devices, to build transmitters and receivers (ham radio)
+	    - Fear of power electronics: SCR (Silicon Controlled Rectifier) waveforms
 
--   Masters’ degree: M. Tech.
-    -   Electronics Design and Technology, IISc, Bangalore
-    -   Impact of a great teacher on getting attracted to power electronics: Prof Ramesh Bhat
+	-   Masters’ degree: M. Tech.
+	    -   Electronics Design and Technology, IISc, Bangalore
+	    -   Impact of a great teacher on getting attracted to power electronics: Prof Ramesh Bhat
 
--   Areas of present interests: power conversion, DC/DC converters,
-    DC/AC converters (inverters), renewable energy, photovoltaics (PV),
-    motor drives, electric vehicles (EV)
+	-   Areas of present interests: power conversion, DC/DC converters,
+	    DC/AC converters (inverters), renewable energy, photovoltaics (PV),
+	    motor drives, electric vehicles (EV)
 -   Typical power electronics course at DESE: 2 hours/week theory, &gt;3
     hours/week lab
 -   “It is difficult to draw a demarcation line between implementation
