@@ -5,42 +5,33 @@ categories:
 podcastId: 16898405
 ---
 
-Lalit and Abhijit interview their PhD advisor and mentor Prof. L. Umanand of the Department of Electronic Systems Engineering at the Indian Institute of Science Bangalore (DESE, IISc).
+Lalit and Abhijit interview their PhD advisor and mentor, Prof. L. Umanand of the Department of Electronic Systems Engineering at the Indian Institute of Science Bangalore (DESE, IISc).
 
 {% include podcast.html id=page.podcastId %}
 
 <!-- more -->
 
---------------------------------
+### Show Notes
 
-Guest: Prof L Umanand
 
-[*Department of Electronic Systems
-Engineering*](http://dese.iisc.ac.in/) (DESE)
+
+#### Guest Profile:
+
+- Prof L Umanand, [*Department of Electronic Systems Engineering*](http://dese.iisc.ac.in/) (DESE)
 Indian Institute of Science (IISc), Bangalore, India
+    
+    <img src="/assets/lu.jpg" width="50%" />
+    
+- [*Personal webpage*](http://surya.dese.iisc.ac.in/lu/index.php/)
+- [*Google Scholar Profile*](https://scholar.google.com/citations?user=KuDDmiQAAAAJ&hl=en)
 
-[*Personal webpage*](http://surya.dese.iisc.ac.in/lu/index.php/)
+- Undergraduate education: B.E. (Bachelor of Engineering)
+    - Electronics and communication engineering
+    - Using discrete, and then integrated devices, to build transmitters and receivers (ham radio)
+    - Fear of power electronics: SCR (Silicon Controlled Rectifier) waveforms
 
-[*Google Scholar
-Profile*](https://scholar.google.com/citations?user=KuDDmiQAAAAJ&hl=en)
-
-Hosts: Prof Abhijit Kshirsagar, IIT Dharwad and Dr. Lalit Patnaik, CERN
-Geneva
-
-Sounds expert: Prof Sudharshan Kaarthik, IIST Trivandrum
-
--   Undergraduate education (BE i.e. Bachelor of Engineering)
-
-    -   Electronics and communication engineering
-
-    -   Using discrete, and then integrated devices, to build transmitters and receivers (ham radio)
-
-    -   Fear of power electronics: SCR (Silicon Controlled Rectifier) waveforms
-
--   Masters’ degree
-
+-   Masters’ degree: M. Tech.
     -   Electronics Design and Technology, IISc, Bangalore
-
     -   Impact of a great teacher on getting attracted to power electronics: Prof Ramesh Bhat
 
 -   Areas of present interests: power conversion, DC/DC converters,
@@ -57,15 +48,10 @@ Sounds expert: Prof Sudharshan Kaarthik, IIST Trivandrum
 -   Promoting interaction between masters and PhD students through
     overlap in projects.
 -   Solar desalination project by Dr. Ravinder Kumar
-
     -   Problem with earlier approach: Membrane-based desalination needs frequent replacement of membranes.
-
     -   Proposed solution: Increase flow rate of distilled water using two-stage distillation and pressure modulation to reduce boiling point of water.
-
     -   Modeling of thermal systems using bond graphs.
-
     -   Related publications:
-
         -   Ravinder Kumar and L. Umanand, “Dynamic pressure modulation
             for solar desalination system,” *Desalination*, vol. 249(1),
             pp. 90-98, 2009. URL:
@@ -125,7 +111,7 @@ Sounds expert: Prof Sudharshan Kaarthik, IIST Trivandrum
 
     -   Ni-ion batteries: potential to form the backbone (large energy  storage) for the electrical grid in presence of intermittent  and distributed renewable energy sources. Long life of 15-20  years.
 
-    -   Thermal power companies in India (E.g. [*Neyveli  Lignite*](https://en.wikipedia.org/wiki/NLC_India_Limited) and  [*NTPC*](https://en.wikipedia.org/wiki/NTPC_Limited)) which  are traditionally coal-based could soon be shifting to  renewable energy (wind and PV) with large energy storage.
+    -   Thermal power companies in India (e.g. [*NTPC*](https://en.wikipedia.org/wiki/NTPC_Limited)) which  are traditionally coal-based could soon be shifting to  renewable energy (wind and PV) with large energy storage.
 
 -   Advice to bachelors’ students in electrical and electronics
     engineering: “Focus on implementation. Understand the working of
@@ -146,30 +132,16 @@ Sounds expert: Prof Sudharshan Kaarthik, IIST Trivandrum
 
 **Additional information:**
 
-Online Courses ([*NPTEL*](https://nptel.ac.in/about_nptel.html)) by Prof
+* Online Courses ([*NPTEL*](https://nptel.ac.in/about_nptel.html)) by Prof
 L Umanand:
-
-[*Basic Electrical
-Technology*](https://nptel.ac.in/courses/108/108/108108076/)
-
-[*Non-Conventional Energy
-Systems*](https://nptel.ac.in/courses/108/108/108108078/)
-
-[*Switched-Mode Power
-Conversion*](https://nptel.ac.in/courses/108/108/108108036/)
-
-[*Design and Simulation of DC-DC Converters using Open-Source
+	* [*Basic Electrical Technology*](https://nptel.ac.in/courses/108/108/108108076/)
+	* [*Non-Conventional Energy Systems*](https://nptel.ac.in/courses/108/108/108108078/)
+	* [*Switched-Mode Power Conversion*](https://nptel.ac.in/courses/108/108/108108036/)
+	* [*Design and Simulation of DC-DC Converters using Open-Source
 Tools*](https://nptel.ac.in/courses/117/108/117108124/)
+	* [*Design of Photovoltaic Systems*](https://nptel.ac.in/courses/117/108/117108141/)
+	* [*Design and Simulation of Power Conversion using Open Source Tools*](https://nptel.ac.in/courses/108/108/108108166/)
 
-[*Design of Photovoltaic
-Systems*](https://nptel.ac.in/courses/117/108/117108141/)
-
-[*Design and Simulation of Power Conversion using Open Source
-Tools*](https://nptel.ac.in/courses/108/108/108108166/)
-
-Books by Prof L Umanand:\
-[*Power Electronics: Essentials &
-Applications*](https://www.amazon.com/Power-Electronics-Essentials-Applications-Umanand/dp/8126519452)
-
-[*Design of Magnetic Components for Switched Mode Power
-Converters*](https://www.amazon.in/Design-Magnetic-Components-Switched-Converters/dp/8122403395)
+* Books by Prof L Umanand:
+	* [*Power Electronics: Essentials & Applications*](https://www.amazon.com/Power-Electronics-Essentials-Applications-Umanand/dp/8126519452)
+	* [*Design of Magnetic Components for Switched Mode Power Converters*](https://www.amazon.in/Design-Magnetic-Components-Switched-Converters/dp/8122403395)
