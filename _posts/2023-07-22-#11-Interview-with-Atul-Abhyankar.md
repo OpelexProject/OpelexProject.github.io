@@ -13,12 +13,7 @@ Mr. Atul Abhyankar, Practice Head (Power Electronics) at L & T Technology Servic
 
 ### Show Notes
 
-<!-- Guest Profile
-
-
-
-<img src="/assets/gk.png" width="25%" />
--->
+<img src="/assets/aa.jpg" width="25%" />
 
 
  **Guest Profile**:
